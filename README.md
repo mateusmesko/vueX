@@ -1,5 +1,4 @@
-# vuex-exercicios
-
+# Vuex teste vendas base
 ## Project setup
 ```
 npm install
